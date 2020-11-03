@@ -1,5 +1,5 @@
 ### Eat. Sleep. Android🤘
-Hi everyone 👋 I'm working as an android app developer since 2010 and very interested in UI/UX development.💻 We are sharing information through [Blog](https://blog.kmshack.kr) and Github.
+Hi everyone 👋 I have been developing Android Apps since 2010, and I'm very interested in UI/UX. I also share information through blog and Github.
 
 ### Find me all around the web:
 
