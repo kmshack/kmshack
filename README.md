@@ -4,8 +4,7 @@ Hi everyone 👋 I have been developing Android Apps since 2010, and I'm very in
 
 #### Find me all around the web:
 
-- [Facebook](https://fb.com/kmshack) 📸
-- [X](https://x.com/kmshack_kr) 𝕏
+- [Threads](https://www.threads.net/@kmshack) 📸
 - [LinkedIn](https://linkedin.com/in/kmshack) 🧑‍💻
 - [Kmshack®™ website](https://www.kmshack.kr) 🌐 
 - [Kmshack®™ blog](https://blog.kmshack.kr) 🌐 
